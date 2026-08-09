@@ -82,4 +82,5 @@ image added in the day-08 as img
 
 *************************************************************************************************************************
 Part 4: Extract Nginx Logs
- 
+
+Logs are placed in nginx-logs.txt files 
