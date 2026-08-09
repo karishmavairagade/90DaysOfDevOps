@@ -77,3 +77,7 @@ ubuntu@ip-172-31-15-88:~$
 Part 3: Security Group Configuration
 
 In security groups of EC2 add port 80 in inbound rules
+
+
+<img width="1516" height="635" alt="image" src="https://github.com/user-attachments/assets/41331ebe-1905-4d68-bd52-4f4310895671" />
+
